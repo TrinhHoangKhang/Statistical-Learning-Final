@@ -1,0 +1,3 @@
+[server]
+# Avoids PyTorch torch.classes path inspection errors during dev reloads.
+fileWatcherType = "none"
